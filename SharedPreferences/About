@@ -1,0 +1,2 @@
+Project with sharedPreferences which stores in the file the key IS_SAVED which checks if a file already exists. 
+If not, the text file of a given name and contents by user is saved in the app data directory on the internal storage. 
